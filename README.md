@@ -6,7 +6,7 @@ indicators.
 To build the docker image, first install Docker, then run:
 
 ```
-docker build -t vs-r-env
+docker build -t vs-r-env .
 ```
 
 To run the environment as a throw-away test version, run:
